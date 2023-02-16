@@ -1,0 +1,9 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.combo-box>.list-cell {
+    -fx-alignment: center;
+}
+.imageview:hover{
+	-fx-cursor:hand;
+	-fx-scale-x: 1.2;
+	-fx-scale-y: 1.2;		
+}
